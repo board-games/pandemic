@@ -11,6 +11,8 @@ It is based on the premise that four diseases have broken out in the world, each
 
 ## See
 
+Looping videos:
+
 * [Police lights flashing](http://www.infinitelooper.com/?v=CuHjGrFA2yY&p=n)
 * [Red spinning emergency lights](http://www.infinitelooper.com/?v=1kIVe1RrIAc&p=n)
 
