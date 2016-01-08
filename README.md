@@ -7,8 +7,7 @@ It is based on the premise that four diseases have broken out in the world, each
 ## Learn/Discuss
 
 * [How to Play Pandemic](http://boardgames.about.com/od/Pandemic/a/How-to-Play-Pandemic.htm)
-* [Pandemic at BoardGameGeek](https://boardgamegeek.com/boardgame/30549/pandemic)
-* [Pandemic: Legacy Season 1 at BoardGameGeek](https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1)
+* BoardGameGeek: [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic) | [Pandemic: Legacy Season 1](https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1)
 
 ## See
 
