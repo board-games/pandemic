@@ -1,13 +1,13 @@
 # Pandemic & Pandemic: Legacy
 
-Pandemic is a cooperative board game designed by Matt Leacock and published by Z-Man Games in 2007.
+SeaFall is a 4X-inspired game (without player elimination/extermination) set in an "age of sail" world reminiscent of our world.
 
-It is based on the premise that four diseases have broken out in the world, each threatening to wipe out a region. The game accommodates 2 to 4 players and is unlike most boardgames as the gameplay is cooperative, rather than competitive. Through the combined effort of all the players, the goal is to discover all four cures before any of several game-losing conditions are reached.
+In SeaFall, the world is starting to claw its way out of a dark age and has begun to rediscover seafaring technology. Players take on the role of a mainland empire that consults with a consortium of advisors to discover new islands, explore those islands, develop trade, send out raiding parties, take part in ship-to-ship combat, and more. As in Risk Legacy and Pandemic Legacy, co-designed by Rob Daviau, SeaFall evolves as the game is played, setting their grudges into the history of the game and building a different narrative at every table as players open up the world.
 
 ## Learn/Discuss
 
 * [How to Play Pandemic](http://boardgames.about.com/od/Pandemic/a/How-to-Play-Pandemic.htm)
-* BoardGameGeek: [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic) — [Pandemic: Legacy Season 1](https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1)
+* [BoardGameGeek](https://boardgamegeek.com/boardgame/148261/seafall)
 
 ## See
 
